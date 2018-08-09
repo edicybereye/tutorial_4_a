@@ -2,7 +2,6 @@
 
 Understanding about Layout on Flutter
 
-![image_capture](https://cybereye-community.com/img/Screen%20Shot%202018-08-10%20at%201.56.36%20AM.png)
 
 ## Getting Started
 
