@@ -1,6 +1,8 @@
-# tutorial_4_layout
+# Tutorial 4 Session 1 
 
-A new Flutter project.
+Understanding about Layout on Flutter
+
+![image_capture](https://cybereye-community.com/img/Screen%20Shot%202018-08-10%20at%201.56.36%20AM.png)
 
 ## Getting Started
 
